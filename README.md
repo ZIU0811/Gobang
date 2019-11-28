@@ -1,0 +1,5 @@
+The things between Gobang arithmetic and me
+  About Gobang's arithmetic, I'm playing gobang game for days, and have no idea about it. 😂I search for it in CSDN, Github, having read a lot of arithmetic, having known the principle of how to fugure it out, every steps. Using languages of C/C++/Java/Python or even VB in Excel, I can even tell you how to do that. But when it comes to write, I find many tiny details block my way.
+  I was always thingking about one thing, but never did some real solid work, maybe it's a procedure of learning. I'm not a one with gift in coding, but I believe that everyone have a opportunity to know the code, learn it and write it. 
+  Through the process, I know machine learning, deap learning...but don't know how to use it. Maybe it is a big gap between professions and amateurs, I'm not majoring in it, but that's not the excuse, I'm just not work hard enough. I don't know how to code, the grammar, the rules, and even the process of calculating is a mess for me. I even don't know how to run a program, I'm not suitable, and just want to prove my English level. 
+  Whatever..
